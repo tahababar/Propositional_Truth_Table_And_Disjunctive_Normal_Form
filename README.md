@@ -1,0 +1,2 @@
+# Propositional_Truth_Table_And_Disjunctive_Normal_Form
+A project for CS233 Foundations of Computation class
